@@ -1,4 +1,4 @@
-﻿
+
 
 
 <div id="results-intro">
@@ -15,16 +15,23 @@
 <div id="wrapping-download-block" style="margin-top:0em; margin-bottom:1em; text-align:center; font-size:1.3em;">
 
 <div id="download-spinner-for-loading" style="display:block;">
+<span style="white-space:nowrap; padding:0 1em 0 1em;"><img src="https://affinitynumerology.com/images/workingspinner.gif" style="font-size:1.3em; height:1.5em; width:auto; border:none; outline:none;"></span>  
+<span style="white-space:nowrap; padding:0 1em 0 1em;"><img src="https://affinitynumerology.com/images/workingspinner.gif" style="font-size:1.3em; height:1.5em; width:auto; border:none; outline:none;"></span> 
 </div>
 
 <div id="download-links-for-reading" style="display:none;">
+<span style="white-space:nowrap; padding:0 .5em 0 .5em;"><a href="https://affinitynumerology.com/calculation/PDFdownloader.php?" target="_blank">(Download PDF)</a></span> 
+<span style="white-space:nowrap; padding:0 .5em 0 .5em;"><a href="https://affinitynumerology.com/calculation/WebPagePrinter.php?" target="_blank">(Print Report)</a></span>
 </div>
 
 <div id="pdf-link-tapped" style="display:none;">
+<span style="white-space:nowrap; padding:0 1em 0 1em;"><img src="https://affinitynumerology.com/images/workingspinner.gif" style="font-size:1.3em; height:1.5em; width:auto; border:none; outline:none;"></span> 
+<span style="white-space:nowrap; padding:0 .5em 0 .5em;"><a href="https://affinitynumerology.com/calculation/WebPagePrinter.php?" target="_blank">(Print This)</a></span>
 </div>
 
 <div id="pdf-downloaded" style="display:none;">
 <span style="white-space:nowrap; padding:0 .5em 0 .5em;">(PDF Done)</span> 
+<span style="white-space:nowrap; padding:0 .5em 0 .5em;"><a href="https://affinitynumerology.com/calculation/WebPagePrinter.php?" target="_blank">(Print This)</a></span>
 </div>
 
 </div><!-- id="wrapping-download-block" -->
@@ -130,12 +137,25 @@ No destiny reading available for destiny number 0.
 
 
 
+
+
+
+
+
+
 <div style="height:1em;"></div>
 
 
+
 <p style="display:table; border:1px solid #ccc; padding:.5em; margin-left:auto; margin-right:auto;">
+Numerology readings provided courtesy of <a target="_blank" href="https://affinitynumerology.com/"><span style="white-space:nowrap;">Affinity Numerology</span></a>
 </p>
 
 
+
+
 </div>
-                                                                                               
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
